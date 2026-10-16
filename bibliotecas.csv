@@ -1,0 +1,14 @@
+﻿id_biblioteca,nombre_biblioteca,localidad,capacidad_personas,puestos_lectura,estado
+B01,Biblioteca Bosque de Letras,Chapinero,145,87,Activa
+B02,Biblioteca Altos del Norte,Suba,220,132,Activa
+B03,Biblioteca Senderos,Kennedy,185,111,Activa
+B04,Biblioteca Horizonte,Usaquén,155,93,Activa
+B05,Biblioteca El Encuentro,Bosa,130,78,Activa
+B06,Biblioteca Las Acacias,Engativá,210,126,Activa
+B07,Biblioteca Casa del Saber,Teusaquillo,125,75,Activa
+B08,Biblioteca La Estación Cultural,Barrios Unidos,140,84,Activa
+B09,Biblioteca Mirador,San Cristóbal,170,102,Activa
+B10,Biblioteca Puertas Abiertas,Fontibón,150,90,Activa
+B11,Biblioteca Semillas,Ciudad Bolívar,190,114,Activa
+B12,Biblioteca Entre Páginas,Puente Aranda,120,72,Activa
+B13,Biblioteca Piloto Sur,Antonio Nariño,85,51,Piloto
